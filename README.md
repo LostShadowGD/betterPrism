@@ -3,7 +3,7 @@ A cleaner PrismLauncher frontend in Pygame.
 
 ## Installation
 1. Install [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher).
-2. Run the installer in "releases".
+2. Run the betterPrism installer in "releases".
 3. Open PrismLauncher.
 4. Sign in with a Microsoft account.
 5. Create a new instance.
