@@ -14,7 +14,7 @@ A cleaner PrismLauncher frontend in Pygame.
 10. Click "Play" in betterPrism.
 
 ## Notes
-- If you **rename** an instance in PrismLauncher, do not Change Instance in betterPrism. This is because PrismLauncher changes the name, not the instance ID. I do belive the folder can be renamed. If i'm wrong: contact.
+- If you **rename** an instance in PrismLauncher, do not **Change Instance** in betterPrism. This is because PrismLauncher changes the name, not the instance ID. I do belive the folder can be renamed. If i'm wrong: contact.
 
 ## Legal Stuff
 I am not affiliated with Mojang or Microsoft. This is not an official Minecraft product/software. Any DMCA requests/other issues (from Mojang/Microsoft), can be brought to my attention at imaginegameservice@gmail.com.
